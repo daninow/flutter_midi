@@ -34,6 +34,8 @@ android {
     lintOptions {
         disable 'InvalidPackage'
     }
+
+    namespace "com.appleeducate.fluttermidi"
 }
 
 dependencies {
